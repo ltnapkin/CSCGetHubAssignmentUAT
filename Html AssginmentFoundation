@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+
+ <!-- The beginning of the code -->
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <!-- basically the top part of the page -->
+<head>
+    <meta charset="utf-8" />
+     <!-- Title that is displayed on html page in the tab -->
+    <title>this is the Html part</title>
+</head>
+
+ <!-- body is where most of the content will go -->
+        <body>Hello this is the body text that i created for the assignment hope you like it</body>
+        
+         <!-- h1 is basically saying header 1 which also means it will be in big text -->
+        <h1>  Assignment 1.2 The foundation </h1>
+
+         <!-- P means paragraph and its where you can write things as well as put movie,gifs,pngs,jpgs and all sorts of stuff -->
+                    <p> Hi this is the paragraph of the fuction of html that was created for the Assignment
+                    
+                     <!-- This is a image  finder/displayer code as well as a style to make the image smaller. -->
+                    
+
+                    </p>
+                    <img id="Excited Cat" src="excited_cat.jpeg" style= "width:600px;height:400px;">
+
+        </body>
+</html>
